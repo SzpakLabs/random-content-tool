@@ -61,7 +61,8 @@ nav a:first-of-type {
 
 @media (min-width: 1024px) {
   header {
-    display: flex;
+    // display: flex;
+    display: none; // temporary disabled
     place-items: center;
     padding-right: calc(var(--section-gap) / 2);
   }
