@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import BirthdayDates from '../components/BirthdayDates.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <BirthdayDates />
   </main>
 </template>
